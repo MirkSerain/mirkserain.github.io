@@ -1,0 +1,30 @@
+---
+title: "Moderator Commands"
+---
+
+This page is a copy of the original page.  Coming soon, this page will reflect Moderator level commands only and a subsequent page will be created for general commands.
+
+<h1>Commands:</h1>
+<h2>Quote System</h2>
+<p>The quote system chat commands are broadcaster and moderator only.  All others may use the channel point redemption option to add a quote.<br>
+    <i>capitalization matters</i>
+</p>
+<ul>
+    <li>!quote add *<br><i>!quote add this is an example</i></li>
+    <li>!quote addOther *<br><i>!quote addOther Bomberpalmer this is a quote from another user</i></li>
+    <li>!quote random<br><i>This will display a random quote</i></li>
+    <li>!quote #<br><i>!quote 9</i><br><i>This will display quote number 9 if it exists</i></li>
+</ul>
+<h2>Reminder System</h2>
+<p>The reminder system...</p>
+<ul>
+    <li>!reminder add *<br><i>!reminder add buy potions</i><br><b>Broadcaster, Mod, and VIP</b></li>
+    <li>!reminder list<br><b>Broadcaster and Mod only</b><br>This command will display all the reminders in chat and then <b>delete</b> them from memory. One use per stream.</li>
+</ul>
+<h2>Informational</h2>
+<pr>These commands are usable by all members of chat and are used to display links or other information</pr>
+<ul>
+    <li>!links</li>
+    <li>!spoilers</li>
+    <li>!discord</li>
+</ul>
