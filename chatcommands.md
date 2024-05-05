@@ -6,4 +6,4 @@ collection: commands
 entries_layout: grid
 ---
 
-Temp text
+Chat commands separated by what kind of viewer you are. Select "General Commands" if unsure.
